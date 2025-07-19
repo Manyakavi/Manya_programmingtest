@@ -1,5 +1,5 @@
-##Programming Test
-##Java programming languages
+## Programming Test
+## Java programming languages
 Program1 :  Create a small calculator which performs operations such as Addition, Subtraction, Multiplication and Division using class.
 Program2 : With a single integer as the input, generate the following until a = x 
 Program3 : With a single integer as the input, generate the following until a = x  
